@@ -1,0 +1,1 @@
+<span style="font-size:40px;font-weight:bold;color:#fff;letter-spacing:2px;">404</span>
